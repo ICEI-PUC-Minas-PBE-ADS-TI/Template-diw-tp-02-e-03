@@ -1,4 +1,4 @@
-# Trabalho Prático - Semanas 3 e 4
+# Trabalho Prático - Semanas 2 e 3
 
 ## Informações Gerais
 
